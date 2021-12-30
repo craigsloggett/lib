@@ -21,7 +21,7 @@ Import any utility found in the library in your shell script:
 # my_script.sh - Automate a tedious task.
 
 # Source the logging utility.
-. ~/.local/lib/shell/logging.sh
+. ~/.local/lib/shell/logging
 
 # Now you have consistent logging across all of your shell scripts.
 info "This is a log message."
