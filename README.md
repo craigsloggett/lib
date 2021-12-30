@@ -8,7 +8,7 @@ A library of POSIX shell utilities.
 2. (Optional) Symlink this library to your home folder for convenience:
 
 ```shell
-ln -s lib ~/.local/lib/shell
+ln -s lib ~/.local/lib
 ```
 
 ## Usage
