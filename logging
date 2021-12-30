@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# logging - Standard logging functions.
+# logging - Info, debug, warning and error logging.
 
 readonly colour_red='\033[0;31m'
 readonly colour_yellow='\033[0;33m'
